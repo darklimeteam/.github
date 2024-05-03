@@ -1,6 +1,6 @@
 **Hi there!**
 
-Here is (Nataly)[https://www.linkedin.com/in/nataly-chkhan-665462109/] and the DarkLime team, a group of professionals who follow the ideology of clean code,
+Here is [Nataly](https://www.linkedin.com/in/nataly-chkhan-665462109/) and the DarkLime team, a group of professionals who follow the ideology of clean code,
 knowledge sharing, and performance excellence.
 We have an attitude of dreamers and go-getters, which makes us close to our clients.
 Seeking exciting opportunities and collaboration with you!
