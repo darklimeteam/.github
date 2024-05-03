@@ -9,7 +9,7 @@ Specializing in SaaS applications catering to both B2B and B2C markets!
 
 Our technology stack includes Java, JavaScript, and TypeScript, with a focus on utilizing Node.js for high-load applications.
 
-We are passionate about performance optimization, SEO, and MicroFrontends!
+We are passionate about performance optimization, SEO, [MicroFrontends](https://github.com/module-federation/module-federation-examples), and [GraphQL](https://github.com/JsssCode/SmallAwesomeShop)!
 
 About us:
 
