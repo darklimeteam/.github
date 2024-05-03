@@ -19,6 +19,6 @@ About us:
 2. [Our blog](https://www.darklimeteam.com/articles/)
 3. [Medium](https://medium.com/@js_code)
 
-Let's discuss a potential collaboration!  (Book a 30-minute call with us!)[https://calendly.com/nataly-chkhan/]
+Let's discuss a potential collaboration!  [Book a 30-minute call with us!](https://calendly.com/nataly-chkhan/)
 
 
