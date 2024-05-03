@@ -13,8 +13,8 @@ We are passionate about performance optimization, SEO, and MicroFrontends!
 
 About us:
 
-[Upwork team page](https://www.upwork.com/agencies/darklime/)
-[Our blog](https://www.darklimeteam.com/articles/)
-[Medium](https://medium.com/@js_code)
+1. [Upwork team page](https://www.upwork.com/agencies/darklime/)
+2. [Our blog](https://www.darklimeteam.com/articles/)
+3. [Medium](https://medium.com/@js_code)
 
 
